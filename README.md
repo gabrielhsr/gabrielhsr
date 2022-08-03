@@ -8,8 +8,10 @@ Graduated in Systems Analysis and Development at Uninter, I'm always looking to 
 I recently had the opportunity to travel to France and spend three weeks with the dev team that takes care of demands from all over the world.
 
 <!--- 🔭 &nbsp; I’m currently working on **project-name**-->
-- 🌱 &nbsp; I’m currently learning **ASP.NET** in [Alura](https://alura.com.br/). 
-- 📫 &nbsp; Feel free to add me on [LinkedIn](https://www.linkedin.com/in/gabrielhsr/)
+- 🌱 I’m currently learning **ASP.NET** in [Alura](https://alura.com.br/)
+- 🔭 I’m currently working on a [Ionic Phaser Game](https://github.com/gabrielhsr/ionic-phaser-game)
+- 📫 Feel free to add me on [LinkedIn](https://www.linkedin.com/in/gabrielhsr/)
+
 
 ### Tech and Languages:
 ![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white)
