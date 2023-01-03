@@ -3,13 +3,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gabrielhsr)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/gabrielhsr_/)
 
-Graduated in Systems Analysis and Development at Uninter, I'm always looking to improve my programming knowledge. My passion is Front-End, but I'm working with Back-End in the current company as well.
-
-I recently had the opportunity to travel to France and spend three weeks with the dev team that takes care of demands from all over the world.
+Six years’ experience in the IT area with network infrastructure, servers, telephony and computers. In the last three years I had the opportunity to work with application development using Angular, TypeScript, Node.js and C# technologies.
 
 <!--- 🔭 &nbsp; I’m currently working on **project-name**-->
-- 🌱 I’m currently learning [**OOP in JS**](https://www.udemy.com/course/javascript-object-oriented-programming/) and [**Agile Methods**](https://www.udemy.com/course/metodos-ageis/) in Udemy
-- 🔭 I’m currently working on a [Ionic Phaser Game](https://github.com/gabrielhsr/ionic-phaser-game)
+- 🌱 I’m currently learning [ASP.NET Core Web API](https://www.udemy.com/course/ultimate-aspnet-5-web-api-development-guide) in Udemy
+- 🔭 I’m currently working in a [Financial Application](https://github.com/gabrielhsr/FinancialApp)
 - 📫 Feel free to add me on [LinkedIn](https://www.linkedin.com/in/gabrielhsr/)
 
 
