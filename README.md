@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gabrielhsr)
 
 <!--- 🔭 &nbsp; I’m currently working on **project-name**-->
-- 🔭 Full Stack Developer @ Robert Bosch LTDA
+- 🔭 Full Stack Developer @ Robert Bosch GmbH
 - 🌱 I’m currently working in a [Financial Application](https://github.com/gabrielhsr/FinancialApp)
 - 📫 Feel free to add me on [LinkedIn](https://www.linkedin.com/in/gabrielhsr/)
 
