@@ -4,9 +4,7 @@
 
 <!--- 🔭 &nbsp; I’m currently working on **project-name**-->
 - 🔭 Full Stack Developer @ Robert Bosch GmbH
-- 🌱 I’m currently working in a [Financial Application](https://github.com/gabrielhsr/FinancialApp)
 - 📫 Feel free to add me on [LinkedIn](https://www.linkedin.com/in/gabrielhsr/)
-
 
 ### Stack
 ![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white)
