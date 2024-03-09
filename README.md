@@ -1,6 +1,7 @@
 ## Hi there, I'm Gabriel Henrique <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gabrielhsr)
+[![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white)](https://steamcommunity.com/id/ghsr/)
 
 <!--- 🔭 &nbsp; I’m currently working on **project-name**-->
 - 🔭 Full Stack Developer @ Robert Bosch GmbH
